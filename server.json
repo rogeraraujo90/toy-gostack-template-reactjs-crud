@@ -18,27 +18,11 @@
     },
     {
       "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
       "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "id": 4,
-      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Le Tomato",
-      "price": "16.99",
-      "description": "Delicioso molho de tomate da casa. Veggie!"
-    },
-    {
-      "id": 5,
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "Brusqueta",
-      "price": "12.99",
-      "description": "Uma delicia. Sério."
+      "name": "A la Camarón",
+      "price": "35.90",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares."
     }
   ]
 }
